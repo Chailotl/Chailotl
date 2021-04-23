@@ -1,5 +1,5 @@
 # Hiya! 👋
-I go by the username Chai, and I am a passionate programmer and aspiring game developer. I'm currently working on my first Unity game Paddle Effect, and a Minecraft mod called Siltbox. Don't forget to check out my [project portfolio](vanillachai.github.io)!
+I go by the username Chai, and I am a passionate programmer and aspiring game developer. I'm currently working on my first Unity game Paddle Effect, and a Minecraft mod called Siltbox. Don't forget to check out my [project portfolio](https://vanillachai.github.io)!
 
 ## 🔧 Skills & Tools
 ![C#](https://img.shields.io/badge/code-C%23-4CAF50)
