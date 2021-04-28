@@ -10,11 +10,13 @@ I do more then just program, I also make videos on [YouTube](https://www.youtube
 ![Java](https://img.shields.io/badge/code-Java-4CAF50)
 ![C++](https://img.shields.io/badge/code-C%2B%2B-4CAF50)
 ![Lua](https://img.shields.io/badge/code-Lua-4CAF50)
+![HTML5](https://img.shields.io/badge/web-HTML5-4CAF50)
 ![Unity](https://img.shields.io/badge/game%20engine-Unity-lightgray)
 ![Node.js](https://img.shields.io/badge/runtime-Node.js-lightgray)
 ![Fabric](https://img.shields.io/badge/toolchain-Fabric-lightgray)
 ![Visual Studio](https://img.shields.io/badge/editor-Visual%20Studio-865FC5)
 ![IntelliJ IDEA](https://img.shields.io/badge/editor-IntelliJ%20IDEA-865FC5)
+![SQL](https://img.shields.io/badge/database-SQL-0080FF)
 ![DigitalOcean](https://img.shields.io/badge/cloud-DigitalOcean-0080FF)
 
 ## 📈 GitHub Stats
