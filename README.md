@@ -15,6 +15,7 @@ I do more then just program, I also make videos on [YouTube](https://www.youtube
 ![Unity](https://img.shields.io/badge/game%20engine-Unity-lightgray)
 ![Node.js](https://img.shields.io/badge/runtime-Node.js-lightgray)
 ![Fabric](https://img.shields.io/badge/toolchain-Fabric-lightgray)
+![Spigot](https://img.shields.io/badge/api-Spigot-lightgray)
 ![Visual Studio](https://img.shields.io/badge/editor-Visual%20Studio-865FC5)
 ![IntelliJ IDEA](https://img.shields.io/badge/editor-IntelliJ%20IDEA-865FC5)
 ![SQLite](https://img.shields.io/badge/database-SQLite-0080FF)
