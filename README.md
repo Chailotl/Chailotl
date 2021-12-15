@@ -22,7 +22,7 @@ I do more then just program, I also make videos on [YouTube](https://www.youtube
 ![DigitalOcean](https://img.shields.io/badge/cloud-DigitalOcean-0080FF)
 
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaChai&theme=tokyonight&layout=compact&hide=HLSL,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chailotl&theme=tokyonight&layout=compact&hide=HLSL,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **VanillaChai/VanillaChai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
