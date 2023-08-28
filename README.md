@@ -18,7 +18,7 @@ In my free time I also make videos on [YouTube](https://www.youtube.com/Chailotl
 ![Fabric](https://img.shields.io/badge/toolchain-Fabric-lightgray)
 ![Spigot](https://img.shields.io/badge/api-Spigot-lightgray)
 ![Visual Studio](https://img.shields.io/badge/editor-Visual%20Studio-865FC5)
-![Visual Studio Code](https://img.shields.io/badge/editor-Visual%20Studio%@20Code-865FC5)
+![Visual Studio Code](https://img.shields.io/badge/editor-Visual%20Studio%20Code-865FC5)
 ![IntelliJ IDEA](https://img.shields.io/badge/editor-IntelliJ%20IDEA-865FC5)
 ![SQLite](https://img.shields.io/badge/database-SQLite-0080FF)
 ![DigitalOcean](https://img.shields.io/badge/cloud-DigitalOcean-0080FF)
