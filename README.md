@@ -1,20 +1,24 @@
 # Hiya! 👋
-I go by the username Chai, and I am a passionate programmer and aspiring game developer. I'm currently working on my first Unity game Paddle Effect, and a Minecraft mod called Siltbox. Don't forget to check out my [dev portfolio](https://chailotl.dev) and games I published on [Itch.io](https://chailotl.itch.io)!
+Hey hey! I'm Chai. I'm a game developer with lots of game ideas living rent free in my head. I also draw and make [YouTube](https://www.youtube.com/Chailotl) videos.
 
-## 🔗 Other Links
-In my free time I also make videos on [YouTube](https://www.youtube.com/Chailotl), and if you like what I do you can support me on [Buy Me a Coffee](https://www.buymeacoff.ee/chailotl)!
+- 🔭 I’m currently working on [Cascadia](https://axoga.to/tags/cascadia) and [Muninn](https://github.com/Chailotl/muninn)
+- 🌱 I’m currently learning Rust and wgpu
+- 🎮 Check out my games on [itch.io](https://chailotl.itch.io)
+- 💸 You can support me at [Buy Me a Coffee](https://www.buymeacoff.ee/chailotl)
 
 ## 🔧 Skills & Tools
+![Rust](https://img.shields.io/badge/lang-Rust-4CAF50)
 ![C#](https://img.shields.io/badge/lang-C%23-4CAF50)
+![JavaScript](https://img.shields.io/badge/lang-JavaScript-4CAF50)
 ![Java](https://img.shields.io/badge/lang-Java-4CAF50)
 ![C++](https://img.shields.io/badge/lang-C%2B%2B-4CAF50)
-![JavaScript](https://img.shields.io/badge/lang-JavaScript-4CAF50)
-![SQL](https://img.shields.io/badge/lang-SQL-4CAF50)
 ![HTML5](https://img.shields.io/badge/lang-HTML5-4CAF50)
 ![Lua](https://img.shields.io/badge/lang-Lua-4CAF50)
+![SQL](https://img.shields.io/badge/lang-SQL-4CAF50)
 ![Unity](https://img.shields.io/badge/game%20engine-Unity-lightgray)
 ![Node.js](https://img.shields.io/badge/runtime-Node.js-lightgray)
 ![React.js](https://img.shields.io/badge/library-React.js-lightgray)
+![Next.js](https://img.shields.io/badge/framework-Next.js-lightgray)
 ![Fabric](https://img.shields.io/badge/toolchain-Fabric-lightgray)
 ![Spigot](https://img.shields.io/badge/api-Spigot-lightgray)
 ![Visual Studio](https://img.shields.io/badge/editor-Visual%20Studio-865FC5)
